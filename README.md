@@ -1,5 +1,5 @@
 # Robot-Path-Planning-Using-Artificial-Potential-Field
-This repository contains the MATLAB code and report for SCARA robot path planning using an Artificial Potential Field. The codes provided here can be modified for any robot manipulator.   
+This repository contains the MATLAB code and report for SCARA robot path planning using an Artificial Potential Field. The codes provided here can be modified for any robot manipulator.    
 1. To perform the forward and inverse kinematics of the SCRA robot, run Kinematics_SCARA.m
 2. To perform the path planning without obstacles, run Path_WO_Obstacle.m
 3. TO perform the path planning with three obstacles, run Path_With_Obstacle.m or Path_With_Obstacle__2.m or Path_With_Obstacle__3.m
